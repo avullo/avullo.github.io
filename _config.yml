@@ -1,6 +1,6 @@
 # Site settings
 title: Alessandro Vullo
-twitter_username: 
+# twitter_username: rob_hinds
 name: Alessandro Vullo
 
 # Build settings
@@ -51,11 +51,11 @@ roles:
    end: 2010
    employer: Self employed
    description: I designed, implemented and maintained various commercial web sites.
-- title: Research Associate
+ - title: Research Associate
    start: 2007
    end: 2009
    employer: Complex and Adaptive Systems Lab, University College Dublin
-   description: Protein disorder prediction, Cheminformatics by Machine Learning. Using Machine Learning to study protein folding.
+   description: I researched and developed machine learning models for protein disorder prediction and cheminformatics. I have also applied machine learning techniques to study protein pseudo-folding pathways.
 
 #Education is required
 education:
