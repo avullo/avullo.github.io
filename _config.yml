@@ -36,17 +36,17 @@ roles:
    end: 2017
    employer: European Bioinformatics Institute
    description: I've supervised the migration of the hardware and software infrastructure of the Ensembl team from the Sanger Institute to the European Bioinformatics Institute
- - title: Bioinformatics Engineer
-   start: 2010
-   end: 2013
-   employer: European Bioinformatics Institute
-   description: I was the lead software developer of Microme, a EU-funded project among several institutes in Europe to develop a large scale infrastructure for the storage and processing of computational models of microbial species. 
-- title: Data Scientist
+ - title: Data Scientist
    start: 2012
    end: 2013
    employer: Self employed
    description: I run statistical analyses and machine learning based predictive modeling using biometric data from samples of pheasants in a game reserve. The project was funded by the regional govenment of Tuscany in Italy.  
-- title: Freelance Web Developer
+ - title: Bioinformatics Engineer
+   start: 2010
+   end: 2013
+   employer: European Bioinformatics Institute
+   description: I was the lead software developer of Microme, a EU-funded project involving several institutes in Europe to develop a large scale infrastructure for the storage and processing of computational models of microbial species. 
+ - title: Freelance Web Developer
    start: 2008
    end: 2010
    employer: Self employed
