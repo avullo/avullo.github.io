@@ -55,8 +55,8 @@ education:
 
 #List of interesting Github repo/projects to include - optional
 github:
+ - avullo/recursive-neural-networks
+ - avullo/BIOHMMs
  - Ensembl/ensembl
  - Ensembl/ensembl-rest
  - Ensembl/ensembl-xs
- - avullo/recursive-neural-networks
- - avullo/BIOHMMs
