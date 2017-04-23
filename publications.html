@@ -1,0 +1,29 @@
+---
+layout: default
+title: Alessandro Vullo, Academic Publications
+---
+
+<div class="row">
+  <div class="col-md-12 rightBorder">
+    <div class="rounded_panel txt_lightgrey">
+      <div class="top-rounded-panel grey-bg">
+	<h1>Research Publications</h1>
+      </div>
+      <div class="content-rounded-panel">
+	<div>
+	  {% for pub in site.data.publications %}
+	  <p>
+	    {% if pub.link %}
+	    {{pub.authors}}. <strong><a href="{{pub.link}}" target="_blank">{{pub.title}}</a></strong>, <em>{{pub.journal}}</em>, {{pub.issue}}, {{pub.year}}.
+	    {% else %}
+	    {{pub.authors}}. <strong>{{pub.title}}</strong>, <em>{{pub.journal}}</em>, {{pub.issue}}, {{pub.year}}.
+	    {% endif %}
+	  </p>
+	  {% endfor %}
+	</div>
+	<br>
+	To be completed...
+      </div>
+    </div>
+  </div>
+</div>
