@@ -30,7 +30,7 @@ roles:
    start: 2013
    end: Ongoing
    employer: European Bioinformatics Institute
-   description: I work as a Software Engineer in the Ensembl group, where I collaboratively develop and maintain the core/REST APIs and various data intensive pipelines used in the release cycle.
+   description: I work as a Software Engineer in the Ensembl group, where I collaboratively develop and maintain the core/REST APIs and various data intensive pipelines used in the release cycle. I have developed and currently maintain the Trackhub Registry (https://www.trackhubregistry.org), a global, centralised collection of publicly accessible track hubs published by researchers worldwide and directly loadable into popular genome browsers. I am also lecturing at the Ensembl API workshops at the European Bioinformatics Institute and the University of Cambridge and give presentations about our work around the UK.
  - title: Project Manager
    start: 2016
    end: 2017
@@ -55,7 +55,28 @@ roles:
    start: 2007
    end: 2009
    employer: Complex and Adaptive Systems Lab, University College Dublin
-   description: I researched and developed machine learning models for protein disorder prediction and cheminformatics. I have also applied machine learning techniques to study protein pseudo-folding pathways.
+   description: I researched and developed Machine Learning models for protein disorder prediction and cheminformatics. I have also applied machine learning techniques to study protein pseudo-folding pathways.
+ - title: Post-doctoral fellow
+   start: 2004
+   end: 2007
+   employer: School of Computer Science and Informatics, University College Dublin
+   description: Design and implementaton of Machine Learning models to automatically interpret and annotate molecular biology data on a very large scale. I have developed the interface, server-side scripts and main application of various tools and servers for protein structure/disorder prediction (C++, Perl, CGI). http://distill.ucd.ie. I was also responsible for the set up and administration of laboratory computational cluster (CentOS, NFS, LSF).
+ - title: Visiting Researcher
+   start: May 2003
+   end: Sep 2003
+   employer: University of California at Irvine
+   description: In partnership with the School of Information and Computer Sciences and the Institute for Genomics and Bioinformatics to further explore the potential of new deterministic graphical models based on Recursive Neural Networks in protein structure prediction problems.
+ - title: Co-Director, Full-stack Web Developer, Linux System Administrator
+   start: 1997
+   end: 2001
+   employer: NewNet Informatics Ltd
+   description: I founded a small start up together with friends and colleagues from University. The company worked as an Internet Service Provider and provided customised web applications and e-commerce solutions based on PHP and Javascript.
+ - title: Post graduate Researcher
+   start: 1999
+   end: 2000
+   employer: Department of Systems and Computer Science, University of Florence (Italy)
+   description: Project "META-E The Metadata Engine Project", IST Programme, Area "Digital heritage and cultural content", EU Grant IST-1999-20021. Model design and development of probalistic graphical models for Machine Learning based document classification (text categorization). Employed the C++ framework developed during the Master Thesis to train and test HMMs to capture the sequential structure of certain spaces of documents, and modelling the emission distribution with either Naive Bayes or Hidden Tree Markov models (HTMMs).
+
 
 #Education is required
 education:
