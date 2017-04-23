@@ -13,16 +13,25 @@ primarylinks:
    url: https://github.com/avullo
  - title: LinkedIn
    url: https://www.linkedin.com/in/alessandro-vullo-12157928
+ - title: Software & Services
+   url: software.html
+ - title: Publications
+   url: publications.html
 
 #Any buzzword skills you want to include
 skills:
  - Machine Learning
  - Data Science
+ - Data Mining
+ - Bioinformatics
  - C++
  - Python
+ - R
  - Perl
  - SQL
  - REST
+ - Design Patterns
+ - Continuous Integration
 
 #Work experience is required
 roles:
