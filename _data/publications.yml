@@ -1,9 +1,9 @@
 - authors: M. Ruffier et al
   title: "Ensembl Core Software Resources: storage and programmatic access for DNA sequence and genome annotation"
   journal: DATABASE - The Journal of Biological Databases and Curation
-  issue: In press
-  year:
-  link: 
+  issue: 2017(1):bax020
+  year: 2017
+  link: https://academic.oup.com/database/article-lookup/doi/10.1093/database/bax020
 
 - authors: B.L. Aken et al
   title: Ensembl 2017
@@ -49,8 +49,8 @@
 
 - authors: I. Walsh, A. Vullo, G. Pollastri
   title: Recursive Neural Networks for Undirected Graphs for Learning Molecular Endpoints
-  journal: Proceedings of the PRIB 2009 conference Sheffield UK
-  issue: in LNCS 5780/2009:391-403
+  journal: Proceedings of the PRIB 2009 conference
+  issue: Sheffield UK, LNCS 5780/2009:391-403
   year: 2009
   link: https://link.springer.com/chapter/10.1007/978-3-642-04031-3_34
 
@@ -60,3 +60,67 @@
   issue: 10:195
   year: 2009
   link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-10-195
+
+- authors: I. Walsh, A. Vullo, G. Pollastri
+  title: An adaptive model for learning molecular endpoints
+  journal: Similarity-based learning on structures
+  issue: M.Biehl, B.Hammer, S.Hochreiter, S.C Kremer and T.Villmann Eds., Dagstuhl Seminar Proceedings, Schloss Dagstuhl - Leibniz-Zentrum für Informatik, Germany
+  year: 2009
+  link: http://drops.dagstuhl.de/opus/volltexte/2009/2036/pdf/09081.PollastriGianluca.Paper.2036.pdf
+
+- authors: I. Walsh, D.Ba&ugrave;, A.J.M. Martin, C. Mooney, A. Vullo, G. Pollastri
+  title: Ab Initio and Template-Based Prediction of Multi-Class Distance Maps by Two-Dimensional Recursive Neural Networks
+  journal: BMC Structural Biology
+  issue: 9:5
+  year: 2009
+  link: https://bmcstructbiol.biomedcentral.com/articles/10.1186/1472-6807-9-5
+  
+- authors: A.J.M. Martin, A. Vullo, G. Pollastri
+  title: Neural Network Pairwise Interaction Fields for Protein Model Quality Assessment
+  journal: Proceedings of the LION3 conference
+  issue: Trento (Italy) LNCS 5851
+  year: 2009
+  link: https://link.springer.com/chapter/10.1007/978-3-642-11169-3_17
+
+- authors: D. Ba&ugrave;, I. Walsh, G. Pollastri, A. Vullo
+  title: Fast Modeling of Protein Structures Through Multi-level Contact Maps
+  journal: "Computational Biology: New Research"
+  issue: Alona S. Russe editor, Nova Publishers
+  year: 2008
+  link: https://www.novapublishers.com/catalog/product_info.php?products_id=7992
+
+- authors: A.J.M. Martin, D. Ba&ugrave;, I. Walsh, A. Vullo, G. Pollastri
+  title: Long-range Information and Physicality Constraints Improve Predicted Protein Contact Maps
+  journal: Journal of Bioinformatics and Computational Biology
+  issue: 6(5):1001-20
+  year: 2008
+  link: https://www.ncbi.nlm.nih.gov/pubmed/18942163
+
+- authors: A. Vullo, A. Passerini, P. Frasconi, F. Costa, G. Pollastri
+  title: On the Convergence of Protein Structure and Dynamics. Statistical Learning Studies of Pseudo Folding Pathways
+  journal: Proceedings of the EVOBIO 2008
+  issue: Naples (Italy) LNCS 4973/2008:200-11
+  year: 2008
+  link: https://link.springer.com/chapter/10.1007/978-3-540-78757-0_18
+
+- authors: D. Ba&ugrave;, G. Pollastri, A. Vullo
+  title: "Distill: a Machine Learning Approach to Ab Initio Protein Structure Prediction"
+  journal: "Analysis of Biological Data: A Soft Computing Approach"
+  issue: S. Bandyopadhyay, U. Maulik and J. T. L. Wang eds., World Scientific
+  year: 2007
+  link: https://www.researchgate.net/publication/248897412_Distill_A_Machine_Learning_Approach_to_Ab_Initio_Protein_Structure_Prediction
+
+- authors: A. Passerini, A. Vullo
+  title: Machine Learning in Structural Genomics
+  journal: "Bioinformatica: sfide e prospettive"
+  issue: Franco Angeli Press
+  year: 2007
+  link: https://www.francoangeli.it/Ricerca/Scheda_libro.aspx?CodiceLibro=380.321
+
+- authors: G.Pollastri, A.J.M. Martin, C. Mooney, A. Vullo
+  title: Accurate Prediction of Protein Secondary Structure and Solvent Accessibility by Consensus Combiners of Sequence and Structure Information
+  journal: BMC Bioinformatics
+  issue: 8:201
+  year: 2007
+  link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-201
+
