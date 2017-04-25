@@ -124,3 +124,163 @@
   year: 2007
   link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-8-201
 
+- authors: A. Ceroni, A. Passerini, A. Vullo, P. Frasconi
+  title: "DISULFIND: a Disulfide Bonding State and Cysteine Connectivity Prediction Server"
+  journal: Nucleic Acids Research
+  issue: 34(Web Server Issue):W177--W181
+  year: 2006
+  link:
+
+- authors: D. Ba&ugrave;, A.J.M. Martin, C. Mooney, A. Vullo, I. Walsh, G. Pollastri
+  title: "Distill: A Suite of Web Servers for the Prediction of One-, Two- and Three-Dimensional Structural Features of Proteins"
+  journal: BMC Bioinformatics
+  issue: 7:402
+  year: 2006
+  link:
+
+- authors: C. Mooney, A. Vullo, G. Pollastri
+  title: Protein Structural Motif Prediction in Multidimensional &phi;-&psi; Space leads to improved Secondary Structure Prediction
+  journal: Journal of Computational Biology
+  issue: 13:8, 1486-1502
+  year: 2006
+  link:
+
+- authors: A. Vullo, O. Bortolami, G. Pollastri, S. Tosatto
+  title: "Spritz: a Server for the Prediction of Intrinsically Disordered Regions in Protein Sequences Using Kernel Machines"
+  journal: Nucleic Acids Research
+  issue: 34:W164-W168
+  year: 2006
+  link:
+
+- authors: A. Vullo, I. Walsh, G. Pollastri
+  title: A Two-Stage Approach for Improved Prediction of Residue Contact Maps
+  journal: BMC Bioinformatics
+  issue: 7:180
+  year: 2006
+  link:
+
+- authors: G. Pollastri, A. Vullo, P. Frasconi, P. Baldi
+  title: Modular DAG-RNN Architectures for Assembling Coarse Protein Structures
+  journal: Journal of Computational Biology
+  issue: 13:3, 631-650
+  year: 2006
+  link:
+
+- authors: P. Baldi, J. Cheng, A. Vullo
+  title: Large-Scale Prediction of Disulphide Bond Connectivity
+  journal: Advances in Neural Information Processing Systems 17 (NIPS 2004)
+  issue: L. Saul, Y. Weiss, and L. Bottou editors, MIT press, pp.97-104, Cambridge MA
+  year: 2004
+  link:
+
+- authors: A. Ceroni, P. Frasconi, A. Vullo
+  title: Protein Structure Assembly from Knowledge of &beta;-sheet Motifs and Secondary Structure
+  journal: Proceedings of the XV Italian Workshop on Neural Networks
+  issue: WIRN 04
+  year: 2004
+  link:
+
+- authors: A. Vullo
+  title: Learning Protein Structural Representations by Specialised Recursive Connectionist Models
+  journal: PhD Thesis
+  issue: Dipartimento di Sistemi e Informatica, Universit&agrave; degli Studi di Firenze
+  year: 2004
+  link:
+
+- authors: A. Vullo, P. Frasconi
+  title: Disulfide Connectivity Prediction Using Recursive Neural Networks and Evolutionary Information
+  journal: Bioinformatics
+  issue: 20:653-659
+  year: 2004
+  link: http://bioinformatics.oxfordjournals.org/content/20/5/653.full.pdf
+
+- authors: G. Pollastri, P. Baldi, A. Vullo, P. Frasconi
+  title: Prediction of Protein Topologies using GIOHMMs and GRNNs
+  journal: Advances in Neural Information Processing Systems (NIPS 2003)
+  issue: S.Thrun, S.Becker and K.Obermayer, editors, 15, pp.1449-1456, MIT Press, Cambridge MA
+  year: 2003
+  link:
+
+- authors: A. Vullo,  P. Frasconi
+  title: Prediction of Protein Coarse Contact Maps
+  journal: Journal of Bioinformatics and Computational Biology
+  issue: 1(2):411-431
+  year: 2003
+  link: http://www.worldscientific.com/doi/abs/10.1142/S0219720003000149
+
+- authors: A. Ceroni, P. Frasconi, A. Passerini, A. Vullo
+  title: Predicting the Disulfide Bonding State of Cysteines with Combinations of Kernel Machines
+  journal: Journal of VLSI Signal Processing
+  issue: 35:287-295
+  year: 2003
+  link: http://dl.acm.org/citation.cfm?id=2813436&CFID=734251586&CFTOKEN=22272485
+
+- authors: A. Ceroni, P. Frasconi, A. Passerini, A. Vullo
+  title: A Combination of Support Vector Machines and Bidirectional Recurrent Neural Networks for Protein Secondary Structure Prediction
+  journal: "AI*IA 2003: Advances in Artificial Intelligence"
+  issue: A. Cappelli and F. Turini, editors, pp. 142-153  
+  year: 2003
+  link:
+
+- authors: A. Ceroni, P. Frasconi, A. Passerini, A. Vullo
+  title: "Cysteine Bonding State: Local Prediction and Global Refinement Using a Combination of Kernel Machines and Bidirectional Recurrent Neural Networks"
+  journal: "AI*IA 2003: Advances in Artificial Intelligence"
+  issue: A. Cappelli and F. Turini, editors
+  year: 2003
+  link:
+
+- authors: P. Baldi, G. Pollastri, P. Frasconi, A. Vullo
+  title: New Machine Learning Methods for the Prediction of Protein Topologies
+  journal: Artificial Intelligence and Heuristic Methods for Bioinformatics
+  issue: "P. Frasconi and R.Shamir, editors, Vol. 183 of NATO Science Series III: Computer and Systems Sciences, IOS Press"
+  year: 2003
+  link:
+
+- authors: A. Vullo, P. Frasconi
+  title: A Recursive Connectionist Approach for Predicting Disulfide Connectivity in Proteins
+  journal: Proceedings of the 2003 ACM symposium on Applied computing (SAC 03)
+  issue: pp. 67-71, Melbourne, Florida USA
+  year: 2003
+  link: http://dl.acm.org/citation.cfm?id=952532.952550
+
+- authors: P. Frasconi, G. Soda,  A. Vullo
+  title: Hidden Markov Models for Text Categorization in Multi-Page Documents
+  journal: Journal of Intelligent Information Systems
+  issue: special issue on automated text categorization, 18(2/3):195-217
+  year: 2002
+  link:
+
+- authors: A. Vullo, P. Frasconi
+  title: A Bi-Recursive Neural Network Architecture for the Prediction of Protein Coarse Contact Maps
+  journal: Proceedings of the 1st IEEE Computer Society Bioinformatics Conference
+  issue: 18(2/3):195-217
+  year: 2002
+  link: http://ieeexplore.ieee.org/abstract/document/1039341/?section=abstract
+
+- authors: P. Frasconi, A. Passerini, A. Vullo
+  title: A Two-Stage SVM Architecture for Predicting the Disulfide Bonding State of Cysteines
+  journal: Proceedings of the 12th IEEE Workshop on Neural Networks for Signal Processing (IEEE NNSP02)
+  issue: special session on signal processing and neural networks for bionformatics
+  year: 2002
+  link: http://ieeexplore.ieee.org/document/1030014/?arnumber=1030014
+
+- authors: A. Vullo
+  title: On the Role of Machine Learning in Protein Structure Determination
+  journal: AI*IA Notizie (journal of the Italian Association for Artificial Intelligence)
+  issue: XV(3):22-30
+  year: 2002
+  link:
+
+- authors: P. Frasconi, A. Vullo
+  title: Prediction of Protein Coarse Contact Maps Using Recursive Neural Networks
+  journal: Proceedings of the IEEE-EMBS Special Topic Conference on Molecular, Cellular and Tissue Engineering
+  issue:
+  year: 2002
+  link: http://ieeexplore.ieee.org/document/1175038/
+
+- authors: P. Frasconi, G. Soda, A. Vullo
+  title: Text Categorization for Multi-Page Documents. A Hybrid Naive Bayes-HMM Approach
+  journal: Proceedings of the ACM-IEEE Joint Conference on Digital Libraries (JCDL 2001)
+  issue: Roanoke, Virginia USA
+  year: 2001
+  link:

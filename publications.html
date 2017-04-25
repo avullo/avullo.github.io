@@ -6,6 +6,19 @@ title: Alessandro Vullo, Academic Publications
 <div class="row">
   <div class="col-md-12 rightBorder">
     <div class="rounded_panel txt_lightgrey">
+      <!--
+      <div>
+	<p>
+	  <table>
+	    <tr>
+	      <td><a href="">Research Publications</a></td>
+	      <td><a href="">Conference/Workshops abstracts</a></td>
+	      <td><a href="">Technical Reports</a></td>
+	    </tr>
+	  </table>
+	</p>
+      </div>
+      -->
       <div class="top-rounded-panel grey-bg">
 	<h1>Research Publications</h1>
       </div>
@@ -21,8 +34,38 @@ title: Alessandro Vullo, Academic Publications
 	  </p>
 	  {% endfor %}
 	</div>
-	<br>
-	To be completed...
+      </div>
+      <div class="top-rounded-panel grey-bg">
+	<h1>Conference/Workshop abstracts</h1>
+      </div>
+      <div class="content-rounded-panel">
+	<div>
+	  {% for pub in site.data.abstracts %}
+	  <p>
+	    {% if pub.link %}
+	    {{pub.authors}}. <strong><a href="{{pub.link}}" target="_blank">{{pub.title}}</a></strong>, <em>{{pub.conference}}</em>, {{pub.venue}}.
+	    {% else %}
+	    {{pub.authors}}. <strong>{{pub.title}}</strong>, <em>{{pub.conference}}</em>, {{pub.venue}}.
+	    {% endif %}
+	  </p>
+	  {% endfor %}
+	</div>
+      </div>
+      <div class="top-rounded-panel grey-bg">
+	<h1>Technical Reports</h1>
+      </div>
+      <div class="content-rounded-panel">
+	<div>
+	  {% for rep in site.data.reports %}
+	  <p>
+	    {% if rep.link %}
+	    {{rep.authors}}. <strong><a href="{{rep.link}}" target="_blank">{{rep.title}}</a></strong>, {{rep.id}}.
+	    {% else %}
+	    {{rep.authors}}. <strong>{{rep.title}}</strong>, {{rep.id}}.
+	    {% endif %}
+	  </p>
+	  {% endfor %}
+	</div>
       </div>
     </div>
   </div>

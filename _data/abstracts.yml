@@ -1,0 +1,44 @@
+- authors: A.J.M. Martin, D. Ba&uacute;, C. Mooney, C. Roche, E. Rubagotti, A. Vullo, I. Walsh, G. Pollastri
+  title: Protein Structural Features Prediction and Modelling of C&alpha; Traces Through Predicted Structural Constraints
+  conference: CASP8
+  venue: Cagliari, Italy
+
+- authors: C. Mooney, A.J.M. Martin, A. Vullo, G. Pollastri
+  title: Exploiting Similarity to Proteins of Known Structure Leads to Improved Protein Structural Motif Prediction
+  conference: ISMB 2007
+  venue: Vienna, Austria
+
+- authors: D.Ba&uacute;, A. Vullo, G. Pollastri
+  title: A New Neural Network Ranker to Evaluate Protein Structure Prediction
+  conference: ISMB 2007
+  venue: Vienna, Austria
+
+- authors: D.Ba&uacute;, A.J.M. Martin, C. Mooney, A. Vullo, I. Walsh, G. Pollastri
+  title: Modelling of Protein C&alpha; Traces Through Residue Contact Maps Predicted by Machine Learning
+  conference: CASP7
+  venue: Asilomar, California USA
+
+- authors: C. Mooney, A. Vullo, G. Pollastri
+  title: "Porter+: A Server for Protein Structural Motif Prediction"
+  conference: ISMB 2006
+  venue: Fortaleza, Brazil
+
+- authors: I. Walsh, A. Vullo, G. Pollastri
+  title: "XXStout: Improving the Prediction of Long Range Residue Contacts"
+  conference: ISMB 2006
+  venue: Fortaleza, Brazil
+
+- authors: D.Ba&uacute;, A. Vullo, G. Pollastri
+  title: Ab Initio Modelling of Protein C&alpha; Traces Through Residue Contact Maps Predicted by Machine Learning
+  conference: ISMB 2006
+  venue: Fortaleza, Brazil
+
+- authors: A.J.M. Martin, A. Vullo, G. Pollastri
+  title: A Filtering Approach for Improved Modelling of Predicted Contact Maps
+  conference: ISMB 2006
+  venue: Fortaleza, Brazil
+
+- authors: D. Ba&uacute;, A. Vullo, G. Pollastri
+  title: Ab Initio Modelling of Protein C&alpha; Traces Through Residue Contact Maps Predicted by Machine Learning
+  conference: MGMS International Meeting 2005
+  venue: Dublin, Ireland
