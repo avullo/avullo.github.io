@@ -51,7 +51,7 @@ roles:
    start: 2012
    end: 2013
    employer: Self employed
-   description: I run statistical analyses and machine learning based predictive modeling using biometric data from samples of pheasants in a game reserve. The project was funded by the regional govenment of Tuscany in Italy.  
+   description: Project Pheasant ZRC ATC 19 funded by the regional government of Tuscany (Italy). I run statistical analyses and Machine Learning based predictive modeling using biometric data from samples of pheasants in a game reserve.   
  - title: Bioinformatics Engineer
    start: 2010
    end: 2013
@@ -71,7 +71,7 @@ roles:
    start: 2004
    end: 2007
    employer: School of Computer Science and Informatics, University College Dublin
-   description: Design and implementaton of Machine Learning models to automatically interpret and annotate molecular biology data on a very large scale. I have developed the interface, server-side scripts and main application of various tools and servers for protein structure/disorder prediction (C++, Perl, CGI). http://distill.ucd.ie. I was also responsible for the set up and administration of laboratory computational cluster (CentOS, NFS, LSF).
+   description: Design and implementaton of Machine Learning models to automatically interpret and annotate molecular biology data on a very large scale. I have developed the interface, server-side scripts and main application of various tools and servers for protein structure/disorder prediction (http://distill.ucd.ie). I was also responsible for the set up and administration of the computational cluster of the AmMBIO group.
  - title: Visiting Researcher
    start: May 2003
    end: Sep 2003
@@ -81,12 +81,12 @@ roles:
    start: 1997
    end: 2001
    employer: NewNet Informatics Ltd
-   description: I founded a small start up together with friends and colleagues from University. The company worked as an Internet Service Provider and provided customised web applications and e-commerce solutions based on PHP and Javascript.
+   description: I founded a small start up together with friends and colleagues from university. The company worked as an Internet Service Provider and provided customised web applications and e-commerce solutions based on PHP and Javascript.
  - title: Post graduate Researcher
    start: 1999
    end: 2000
    employer: Department of Systems and Computer Science, University of Florence (Italy)
-   description: Project "META-E The Metadata Engine Project", IST Programme, Area "Digital heritage and cultural content", EU Grant IST-1999-20021. Model design and development of probalistic graphical models for Machine Learning based document classification (text categorization). Employed the C++ framework developed during the Master Thesis to train and test HMMs to capture the sequential structure of certain spaces of documents, and modelling the emission distribution with either Naive Bayes or Hidden Tree Markov models (HTMMs).
+   description: Project "META-E The Metadata Engine Project", IST Programme, Area "Digital heritage and cultural content", EU Grant IST-1999-20021. Model design and development of probabilistic graphical models for document classification (text categorization). I have employed the C++ framework developed during my master thesis to train and test HMMs to capture the sequential structure of certain document spaces, and modeling the emission distribution with either Naive Bayes or Hidden Tree Markov models (HTMMs).
 
 
 #Education is required
