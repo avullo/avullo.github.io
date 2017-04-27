@@ -25,6 +25,9 @@ title: Alessandro Vullo, Academic Publications
       <div class="content-rounded-panel">
 	<div>
 	  {% for pub in site.data.publications %}
+	  {% if pub.id %}
+	  <div id={{pub.id}}></div>
+	  {% endif %}
 	  <p>
 	    {% if pub.link %}
 	    {{pub.authors}}. <strong><a href="{{pub.link}}" target="_blank">{{pub.title}}</a></strong>, <em>{{pub.journal}}</em>, {{pub.issue}}, {{pub.year}}.
