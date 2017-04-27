@@ -129,14 +129,15 @@
   journal: Nucleic Acids Research
   issue: 34(Web Server Issue):W177--W181
   year: 2006
-  link:
+  link: https://academic.oup.com/nar/article/34/suppl_2/W177/2505671/DISULFIND-a-disulfide-bonding-state-and-cysteine
 
 - authors: D. Ba&ugrave;, A.J.M. Martin, C. Mooney, A. Vullo, I. Walsh, G. Pollastri
   title: "Distill: A Suite of Web Servers for the Prediction of One-, Two- and Three-Dimensional Structural Features of Proteins"
   journal: BMC Bioinformatics
   issue: 7:402
   year: 2006
-  link:
+  link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-402
+  id: distill
 
 - authors: C. Mooney, A. Vullo, G. Pollastri
   title: Protein Structural Motif Prediction in Multidimensional &phi;-&psi; Space leads to improved Secondary Structure Prediction
