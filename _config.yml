@@ -51,7 +51,7 @@ roles:
    start: 2012
    end: 2013
    employer: Self employed
-   description: Project Pheasant ZRC ATC 19 funded by the regional government of Tuscany (Italy). I run statistical analyses and Machine Learning based predictive modeling using biometric data from samples of pheasants in a game reserve.   
+   description: Project "Pheasant", funded by the regional government of Tuscany (Italy). I run statistical analyses and Machine Learning based predictive modeling using biometric data from samples of pheasants in the ZRC ATC 19 governmental game reserve.   
  - title: Bioinformatics Engineer
    start: 2010
    end: 2013
