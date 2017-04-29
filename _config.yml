@@ -42,7 +42,7 @@ roles:
    start: 2013
    end: Ongoing
    employer: European Bioinformatics Institute
-   description: I work as a Software Engineer in the Ensembl group, where I collaboratively develop and maintain the core/REST APIs and various data intensive pipelines used in the release cycle. I have developed and currently maintain the Trackhub Registry (https://www.trackhubregistry.org), a global, centralised collection of publicly accessible track hubs published by researchers worldwide and directly loadable into popular genome browsers. I am also lecturing at the Ensembl API workshops at the European Bioinformatics Institute and the University of Cambridge and give presentations about our work around the UK.
+   description: I work as a Software Engineer for <a href="http://www.ensembl.org" target="_blank">Ensembl</a>, where I collaboratively develop and maintain the core/REST APIs and various data intensive pipelines used in the release cycle. I have developed and currently maintain the <a href="https://www.trackhubregistry.org" target="_blank">Trackhub Registry</a>, a global, centralised collection of publicly accessible track hubs published by researchers worldwide and directly loadable into popular genome browsers. I am also lecturing at the Ensembl API workshops at the European Bioinformatics Institute and the University of Cambridge and give presentations about our work around the UK.
  - title: Project Manager
    start: 2016
    end: 2017
@@ -57,7 +57,7 @@ roles:
    start: 2010
    end: 2013
    employer: European Bioinformatics Institute
-   description: I was the lead software developer of Microme, a EU-funded project involving several institutes in Europe to develop a large scale infrastructure for the storage and processing of computational models of microbial species. 
+   description: I was the lead software developer of <a href="http://www.microme.eu" target="_blank">Microme</a>, a EU-funded project involving several institutes in Europe to develop a large scale infrastructure for the storage and processing of computational models of microbial species. 
  - title: Freelance Web Developer
    start: 2008
    end: 2010
@@ -72,7 +72,7 @@ roles:
    start: 2004
    end: 2007
    employer: School of Computer Science and Informatics, University College Dublin
-   description: Design and implementaton of Machine Learning models to automatically interpret and annotate molecular biology data on a very large scale. I have developed the interface, server-side scripts and main application of various tools and servers for protein structure/disorder prediction (http://distill.ucd.ie). I was also responsible for the set up and administration of the computational cluster of the AmMBIO group.
+   description: Design and implementaton of Machine Learning models to automatically interpret and annotate molecular biology data on a very large scale. I have developed the interface, server-side scripts and main application of various <a href="software.html#distill">tools and servers for protein structure/disorder prediction</a> (Distill). I was also responsible for the set up and administration of the computational cluster of the AmMBIO group.
  - title: Visiting Researcher
    start: May 2003
    end: Sep 2003
@@ -87,7 +87,7 @@ roles:
    start: 1999
    end: 2000
    employer: Department of Systems and Computer Science, University of Florence (Italy)
-   description: Project "META-E The Metadata Engine Project", IST Programme, Area "Digital heritage and cultural content", EU Grant IST-1999-20021. Model design and development of probabilistic graphical models for document classification (text categorization). I have employed the C++ framework developed during my master thesis to train and test HMMs to capture the sequential structure of certain document spaces, and modeling the emission distribution with either Naive Bayes or Hidden Tree Markov models (HTMMs).
+   description: Project <a href="http://www.dcc.ac.uk/resources/external/metae-metadata-engine-project" target="_blank">META-E The Metadata Engine Project</a>, IST Programme, Area "Digital heritage and cultural content", EU Grant IST-1999-20021. Model design and development of probabilistic graphical models for document classification (text categorization). I have employed the C++ framework developed during my master thesis to train and test HMMs to capture the sequential structure of certain document spaces, and modeling the emission distribution with either Naive Bayes or Hidden Tree Markov models (HTMMs).
 
 
 #Education is required
