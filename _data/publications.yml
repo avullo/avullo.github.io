@@ -144,35 +144,35 @@
   journal: Journal of Computational Biology
   issue: 13:8, 1486-1502
   year: 2006
-  link:
+  link: https://www.ncbi.nlm.nih.gov/pubmed/17061924
 
 - authors: A. Vullo, O. Bortolami, G. Pollastri, S. Tosatto
   title: "Spritz: a Server for the Prediction of Intrinsically Disordered Regions in Protein Sequences Using Kernel Machines"
   journal: Nucleic Acids Research
   issue: 34:W164-W168
   year: 2006
-  link:
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16844983
 
 - authors: A. Vullo, I. Walsh, G. Pollastri
   title: A Two-Stage Approach for Improved Prediction of Residue Contact Maps
   journal: BMC Bioinformatics
   issue: 7:180
   year: 2006
-  link:
+  link: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-7-180
 
 - authors: G. Pollastri, A. Vullo, P. Frasconi, P. Baldi
   title: Modular DAG-RNN Architectures for Assembling Coarse Protein Structures
   journal: Journal of Computational Biology
   issue: 13:3, 631-650
   year: 2006
-  link:
+  link: https://www.ncbi.nlm.nih.gov/pubmed/16706716
 
 - authors: P. Baldi, J. Cheng, A. Vullo
   title: Large-Scale Prediction of Disulphide Bond Connectivity
   journal: Advances in Neural Information Processing Systems 17 (NIPS 2004)
   issue: L. Saul, Y. Weiss, and L. Bottou editors, MIT press, pp.97-104, Cambridge MA
   year: 2004
-  link:
+  link: https://papers.nips.cc/paper/2607-large-scale-prediction-of-disulphide-bond-connectivity.pdf
 
 - authors: A. Ceroni, P. Frasconi, A. Vullo
   title: Protein Structure Assembly from Knowledge of &beta;-sheet Motifs and Secondary Structure
@@ -200,7 +200,7 @@
   journal: Advances in Neural Information Processing Systems (NIPS 2003)
   issue: S.Thrun, S.Becker and K.Obermayer, editors, 15, pp.1449-1456, MIT Press, Cambridge MA
   year: 2003
-  link:
+  link: http://papers.nips.cc/paper/2302-prediction-of-protein-topologies-using-giohmms-and-grnns.pdf
 
 - authors: A. Vullo,  P. Frasconi
   title: Prediction of Protein Coarse Contact Maps
@@ -219,9 +219,9 @@
 - authors: A. Ceroni, P. Frasconi, A. Passerini, A. Vullo
   title: A Combination of Support Vector Machines and Bidirectional Recurrent Neural Networks for Protein Secondary Structure Prediction
   journal: "AI*IA 2003: Advances in Artificial Intelligence"
-  issue: A. Cappelli and F. Turini, editors, pp. 142-153  
+  issue: A. Cappelli and F. Turini, editors, LNCS, volume 2829, pp. 142-153  
   year: 2003
-  link:
+  link: https://link.springer.com/chapter/10.1007/978-3-540-39853-0_12
 
 - authors: A. Ceroni, P. Frasconi, A. Passerini, A. Vullo
   title: "Cysteine Bonding State: Local Prediction and Global Refinement Using a Combination of Kernel Machines and Bidirectional Recurrent Neural Networks"
@@ -235,7 +235,7 @@
   journal: Artificial Intelligence and Heuristic Methods for Bioinformatics
   issue: "P. Frasconi and R.Shamir, editors, Vol. 183 of NATO Science Series III: Computer and Systems Sciences, IOS Press"
   year: 2003
-  link:
+  link: http://www.iospress.nl/book/artificial-intelligence-and-heuristic-methods-in-bioinformatics/
 
 - authors: A. Vullo, P. Frasconi
   title: A Recursive Connectionist Approach for Predicting Disulfide Connectivity in Proteins
@@ -249,7 +249,7 @@
   journal: Journal of Intelligent Information Systems
   issue: special issue on automated text categorization, 18(2/3):195-217
   year: 2002
-  link:
+  link: https://link.springer.com/article/10.1023%2FA%3A1013681528748
 
 - authors: A. Vullo, P. Frasconi
   title: A Bi-Recursive Neural Network Architecture for the Prediction of Protein Coarse Contact Maps
@@ -284,4 +284,4 @@
   journal: Proceedings of the ACM-IEEE Joint Conference on Digital Libraries (JCDL 2001)
   issue: Roanoke, Virginia USA
   year: 2001
-  link:
+  link: https://www.researchgate.net/publication/220923876_Text_categorization_for_multi-page_documents_A_hybrid_Naive_Bayes_HMM_approach
