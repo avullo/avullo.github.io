@@ -1,3 +1,10 @@
+- authors: P.J. Kersey et al
+  title: "Ensembl Genomes 2018: an integrated omics infrastructure for non-vertebrate species"
+  journal: Nucleic Acids Research
+  issue: gkx1011
+  year: 2017
+  link: https://doi.org/10.1093/nar/gkx1011
+
 - authors: M. Ruffier et al
   title: "Ensembl Core Software Resources: storage and programmatic access for DNA sequence and genome annotation"
   journal: DATABASE - The Journal of Biological Databases and Curation
