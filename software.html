@@ -11,6 +11,20 @@ title: Alessandro Vullo, Software & Services
       </div>
       <div class="content-rounded-panel">
 	<div>
+	  <h2>AVLTree - Perl extension for efficient creation and manipulation of AVL balanced binary trees.</h2>
+	  <br/>
+	  <p align="justify">
+	    A module to provide a simple and fast implementation of <a href="http://www.eternallyconfuzzled.com/tuts/datastructures/jsw_tut_avl.aspx" target="_blank">AVL balanced trees</a>. It uses the Perl XS extension mechanism by providing a tiny wrapper around an efficient C library which does the core of the work.
+	    Preliminary benchmarking shows this module one order of magnitude faster than a pure perl implementation.
+	  </p>
+	  <p align="justify">The nodes of an AVL tree object can hold any kind of item, as long as each one of these has an element which can be used to define a partial order on the set of possible items. This is specified by providing,
+	    upon tree construction, a reference to a function for comparing any two of the possible items.
+	  </p>
+	  <p align="justify">The underlying C library is a reinterpretation of the C library originally developed by Julienne Walker. This library has been adapted for dealing directly with Perl (SV) variables.</p>
+	  <p><a href="https://github.com/avullo/AVLTree" target="_blank">GitHub</a> <a href="https://metacpan.org/pod/AVLTree" target="_blank">MetaCPAN</a></p>
+	  <hr>
+	</div>
+	<div>
 	  <h2>The Track Hub Registry - A global centralised collection of publicly accessible track hubs</h2>
 	  <br/>
 	  <p align="justify">
