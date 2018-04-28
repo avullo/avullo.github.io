@@ -13,8 +13,10 @@ primarylinks:
    url: https://github.com/avullo
  - title: LinkedIn
    url: https://www.linkedin.com/in/alessandro-vullo-12157928
- - title: Software & Services
+ - title: Software
    url: software.html
+ - title: Web Services
+   url: services.html
  - title: Publications
    url: publications.html
 

@@ -1,0 +1,38 @@
+<div id="dsBubble" class="rounded_panel txt_lightgrey">
+  <div class="top-rounded-panel grey-bg">
+    <a name="dsalg"></a>
+    <h1 id="user-ds">Data Structures and Algorithms</h1>
+    <hr>
+  </div>
+  <div class="content-rounded-panel">
+    <div id="itBlurb">
+      <h2>libitree - An interval tree library in C</h2>
+      <br/>
+      <p align="justify">
+	A simple C library for handling <a href="https://en.wikipedia.org/wiki/Interval_tree" target="_blank">interval trees</a>. An interval tree is a tree data structure that holds intervals, allowing the efficient retrieval of all intervals that overlap with any given interval or point.
+      </p>
+      <p align="justify">
+	I wrote this library while working at Ensembl on problems involving mapping between different genome assemblies, which typically involve intervals representing genomic regions. 
+      </p>
+      <p><a href="https://github.com/avullo/interval-tree" target="_blank">GitHub</a>
+    </div>
+    <hr>
+    <div id="tifBlurb">
+      <h2>Tree::Interval::Fast - Efficient interval tree algorithms in Perl</h2>
+      <br/>
+      <p align="justify">
+	This is a Perl XS wrapper around the above libitree library to provide a simple and fast implementation of mutable interval trees in Perl. I wrote the module since the Ensembl core Perl API needs C-like time/memory behaviour of this type of data structures. To the best of my knowlege, currently there are no such modules available in Perl.
+      </p>
+      <p><a href="https://github.com/avullo/Tree-Interval-Fast" target="_blank">GitHub</a> <a href="https://metacpan.org/pod/Tree::Interval::Fast" target="_blank">MetaCPAN</a></p>
+    </div>
+    <hr>
+    <div id="avlBlurb">
+      <h2>AVLTree - Efficient balanced binary trees in Perl</h2>
+      <br/>
+      <p align="justify">
+	An AVL tree is self-balancing binary tree where all the basic operations take o(log n) time in the average and worst cases. Similarly to the above interval tree module, I wrote this as I've found there were no C-based module implementing AVL trees in Perl. This one in particular uses the Perl XS extension mechanism by providing a tiny wrapper around an efficient C <a href="http://www.eternallyconfuzzled.com/tuts/datastructures/jsw_tut_avl.aspx" target="_blank">library</a> which does the core of the work. Preliminary benchmarking shows this module one order of magnitude faster than a pure perl implementation.
+      </p>
+      <p><a href="https://github.com/avullo/AVLTree" target="_blank">GitHub</a> <a href="https://metacpan.org/pod/AVLTree" target="_blank">MetaCPAN</a></p>
+    </div>
+  </div>
+</div>
